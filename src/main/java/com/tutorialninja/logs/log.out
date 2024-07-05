@@ -1,0 +1,414 @@
+2023-12-21 12:12:286 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (f09cb4bb04fde6d61acb730d7a2ef93d)] -> link text: Desktops]
+2023-12-21 12:12:829 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:15 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:386 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:504 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:510 INFO  DesktopPage :55 - Product arranged in ascending order
+2023-12-21 12:12:907 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (63a1193d24e00a01e67e9c1383d9483c)] -> link text: Desktops]
+2023-12-21 12:12:421 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:548 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:906 INFO  DesktopPage :84 - Selecting sort by filter Name (Z - A)
+2023-12-21 12:12:36 INFO  DesktopPage :39 - Getting original product name list: [Sony VAIO, Samsung SyncMaster 941BW, Product 8, Palm Treo Pro, MacBook Air, MacBook, iPod Classic, iPhone, HTC Touch HD, HP LP3065, Canon EOS 5D, Apple Cinema 30"]
+2023-12-21 12:12:39 INFO  DesktopPage :59 - Product arranged in descending order
+2023-12-21 12:12:306 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:502 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> link text: Desktops]
+2023-12-21 12:12:33 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:460 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:617 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:173 INFO  DesktopPage :47 - Selecting product HTC Touch HD
+2023-12-21 12:12:192 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:307 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:349 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:627 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added HTC Touch HD to your shopping cart!
+×
+2023-12-21 12:12:972 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:988 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:08 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:47 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:84 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (7fed13cc9edf49e05ed4fe11d635e96a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:314 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:486 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> link text: Desktops]
+2023-12-21 12:12:20 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:457 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:571 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:463 INFO  DesktopPage :47 - Selecting product iPhone
+2023-12-21 12:12:481 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:569 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:615 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:893 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added iPhone to your shopping cart!
+×
+2023-12-21 12:12:248 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:260 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:280 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:314 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:334 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (af3be532e5431ea87b3c2e5f3c9e3e0f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:257 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:485 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> link text: Desktops]
+2023-12-21 12:12:989 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:380 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:488 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:158 INFO  DesktopPage :47 - Selecting product iPod Classic
+2023-12-21 12:12:178 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:270 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:316 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:542 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added iPod Classic to your shopping cart!
+×
+2023-12-21 12:12:893 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:907 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:938 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:963 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:983 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (d57e6389ecd08a8a9fc0ead5e317c37b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:900 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:116 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> link text: Desktops]
+2023-12-21 12:12:637 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:30 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:149 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:987 INFO  DesktopPage :47 - Selecting product MacBook
+2023-12-21 12:12:02 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:89 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:152 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:384 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook to your shopping cart!
+×
+2023-12-21 12:12:740 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:754 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:785 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:804 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:825 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (5745bcd154a60f693d7545286e1451d9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:782 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:17 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> link text: Desktops]
+2023-12-21 12:12:552 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:959 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:52 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:749 INFO  DesktopPage :47 - Selecting product MacBook Air
+2023-12-21 12:12:765 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:851 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:897 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:131 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook Air to your shopping cart!
+×
+2023-12-21 12:12:496 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:509 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:538 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:562 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:590 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (af167577d20ab5a65f804d0af88fc5dd)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:674 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:884 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> link text: Desktops]
+2023-12-21 12:12:380 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:794 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-21 12:12:895 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-21 12:12:761 INFO  DesktopPage :47 - Selecting product Sony VAIO
+2023-12-21 12:12:776 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:886 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-21 12:12:935 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:164 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added Sony VAIO to your shopping cart!
+×
+2023-12-21 12:12:510 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:522 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:553 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:572 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-21 12:12:595 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (46768b061f7576fbb72ad289feb1b15a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:124 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (845b7a7533054721bd553929377b5fbc)] -> link text: Laptops & Notebooks]
+2023-12-21 12:12:647 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2023-12-21 12:12:726 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [122.0, 602.0, 1202.0, 2000.0, 1202.0]
+2023-12-21 12:12:82 INFO  DesktopPage :84 - Selecting sort by filter Price (High > Low)
+2023-12-21 12:12:146 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [2000.0, 1202.0, 1202.0, 602.0, 122.0]
+2023-12-21 12:12:149 INFO  DesktopPage :70 - Price arranged in High to Low order
+2023-12-21 12:12:35 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-21 12:12:240 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> link text: Laptops & Notebooks]
+2023-12-21 12:12:767 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2023-12-21 12:12:171 INFO  DesktopPage :84 - Selecting sort by filter Price (High > Low)
+2023-12-21 12:12:236 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [1225.0, 736.23, 736.23, 368.73, 74.73]
+2023-12-21 12:12:910 INFO  DesktopPage :47 - Selecting product MacBook
+2023-12-21 12:12:929 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //div[@id = 'content']//h1]
+2023-12-21 12:12:985 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //button[@id='button-cart']]
+2023-12-21 12:12:200 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook to your shopping cart!
+×
+2023-12-21 12:12:567 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-21 12:12:580 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //div[@id='content']//h1]
+2023-12-21 12:12:615 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-21 12:12:705 INFO  ShoppingCartPage :74 - Enter quantity on shopping cart page: 2
+2023-12-21 12:12:232 INFO  ShoppingCartPage :79 - Clicking on qty update button: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //button[contains(@data-original-title, 'Update')]]
+2023-12-21 12:12:247 INFO  ShoppingCartPage :83 - Getting success modified message: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: (//div[@class='alert alert-success alert-dismissible'])[1]]
+2023-12-21 12:12:268 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-21 12:12:588 INFO  ShoppingCartPage :89 - Clicking on checkout button: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //a[@class='btn btn-primary']]
+2023-12-21 12:12:625 INFO  CheckOutPage :91 - Getting checkout text: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //h1[normalize-space()='Checkout']]
+2023-12-21 12:12:936 INFO  CheckOutPage :103 - Clicking on guest checkout radio button on checkout page: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //input[@value='guest']]
+2023-12-21 12:12:983 INFO  CheckOutPage :108 - Clicking on continue button on checkout page: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> css selector: #button-account]
+2023-12-21 12:12:36 INFO  CheckOutPage :122 - Filled all personal information on checkout page
+2023-12-21 12:12:96 INFO  CheckOutPage :127 - Clicking on guest continue button on checkout page: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //input[@id='button-guest']]
+2023-12-21 12:12:702 INFO  CheckOutPage :133 - Enter comment : Please send delivery as soon as possible in comment area [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //textarea[@name='comment']]
+2023-12-21 12:12:741 INFO  CheckOutPage :138 - Clicking on terms and condition on checkout page: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> css selector: input[value='1'][name='agree']]
+2023-12-21 12:12:798 INFO  CheckOutPage :143 - Clicking on payment continue button on checkout page: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //input[@id='button-payment-method']]
+2023-12-21 12:12:45 INFO  CheckOutPage :148 - Getting warning message for payment method: [[ChromeDriver: chrome on windows (e052d348996169fbfcdffb552e842c4c)] -> xpath: //div[@class ='alert alert-danger alert-dismissible']]
+2023-12-21 12:12:717 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:230 INFO  HomePage :95 - Selecting my account option: Register
+2023-12-21 12:12:273 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (9bc254889bfe2a713a8497e776014351)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-12-21 12:12:296 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (9bc254889bfe2a713a8497e776014351)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-12-21 12:12:636 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:951 INFO  HomePage :95 - Selecting my account option: Login
+2023-12-21 12:12:265 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:744 INFO  HomePage :95 - Selecting my account option: Register
+2023-12-21 12:12:849 INFO  AccountRegisterPage :60 - Enter firstName : Prime to firstName field [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> id: input-firstname]
+2023-12-21 12:12:944 INFO  AccountRegisterPage :65 - Enter lastName : Testing to lastName field [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> id: input-lastname]
+2023-12-21 12:12:34 INFO  AccountRegisterPage :70 - Enter email : QmVprime123@gmail.com to email field [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> id: input-email]
+2023-12-21 12:12:118 INFO  AccountRegisterPage :75 - Enter telephone : 07878112233 to telephone field 07878112233
+2023-12-21 12:12:189 INFO  AccountRegisterPage :80 - Enter password : Prime123 to password field Prime123
+2023-12-21 12:12:252 INFO  AccountRegisterPage :85 - Enter confirm password : Prime123 to confirm password field Prime123
+2023-12-21 12:12:329 INFO  AccountRegisterPage :100 - Clicking on privacy policy check box
+2023-12-21 12:12:907 INFO  AccountRegisterPage :105 - Clicking on continue button on account register page
+2023-12-21 12:12:929 INFO  MyAccountPage :41 - Getting Your account has been created text: [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]
+2023-12-21 12:12:227 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-21 12:12:276 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:766 INFO  HomePage :95 - Selecting my account option: Logout
+2023-12-21 12:12:796 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-12-21 12:12:482 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (a2b318c69b6c29cc61c3348a065f1ce3)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-21 12:12:25 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:357 INFO  HomePage :95 - Selecting my account option: Login
+2023-12-21 12:12:484 INFO  AccountLoginPage :45 - Entering email QmVprime123@gmail.com to email field : [[ChromeDriver: chrome on windows (2c0933f8087c41bac239c09d5d70e741)] -> id: input-email]
+2023-12-21 12:12:554 INFO  AccountLoginPage :50 - Entering password Prime123 to email field : [[ChromeDriver: chrome on windows (2c0933f8087c41bac239c09d5d70e741)] -> id: input-password]
+2023-12-21 12:12:129 INFO  AccountLoginPage :55 - Clicking on login button : [[ChromeDriver: chrome on windows (2c0933f8087c41bac239c09d5d70e741)] -> xpath: //form[contains(@action,'login')]//input[@type='submit']]
+2023-12-21 12:12:147 INFO  MyAccountPage :31 - Getting my account text: [[ChromeDriver: chrome on windows (2c0933f8087c41bac239c09d5d70e741)] -> xpath: //h2[normalize-space()='My Account']]
+2023-12-21 12:12:192 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-21 12:12:713 INFO  HomePage :95 - Selecting my account option: Logout
+2023-12-21 12:12:782 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-12-21 12:12:476 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (2c0933f8087c41bac239c09d5d70e741)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-21 12:12:200 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (70df48207251878aedb25e0bfc2ad6b6)] -> link text: Desktops]
+2023-12-21 12:12:761 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-21 12:12:315 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (852e27edadb06a2a93467285b9eb5dc6)] -> link text: Laptops & Notebooks]
+2023-12-21 12:12:817 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2023-12-21 12:12:840 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (852e27edadb06a2a93467285b9eb5dc6)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-21 12:12:873 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (852e27edadb06a2a93467285b9eb5dc6)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-21 12:12:352 INFO  HomePage :70 - Mouse hovering on Components link and click [[ChromeDriver: chrome on windows (8d158d2eff42a34581fa62265356bc90)] -> link text: Components]
+2023-12-21 12:12:854 INFO  HomePage :49 - Selecting menu Show AllComponents
+2023-12-21 12:12:886 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (8d158d2eff42a34581fa62265356bc90)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-21 12:12:904 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (8d158d2eff42a34581fa62265356bc90)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-23 10:12:769 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:145 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> link text: Desktops]
+2023-12-23 10:12:926 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:591 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:881 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:831 INFO  DesktopPage :47 - Selecting product HTC Touch HD
+2023-12-23 10:12:874 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:176 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:278 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:525 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added HTC Touch HD to your shopping cart!
+×
+2023-12-23 10:12:964 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:08 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:52 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:141 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:216 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (4539cf7ab586434f6aa930412357225a)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:700 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:11 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> link text: Desktops]
+2023-12-23 10:12:601 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:222 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:508 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:477 INFO  DesktopPage :47 - Selecting product iPhone
+2023-12-23 10:12:544 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:774 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:900 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:176 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added iPhone to your shopping cart!
+×
+2023-12-23 10:12:603 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:666 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:708 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:805 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:863 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (0673136015ecd14a4772f04f34ae77c2)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:738 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:941 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> link text: Desktops]
+2023-12-23 10:12:628 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:259 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:542 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:542 INFO  DesktopPage :47 - Selecting product iPod Classic
+2023-12-23 10:12:585 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:830 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:943 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:223 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added iPod Classic to your shopping cart!
+×
+2023-12-23 10:12:684 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:711 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:773 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:862 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:927 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (8f67685519066a2d63afccda06cbf553)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:793 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:999 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> link text: Desktops]
+2023-12-23 10:12:776 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:351 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:606 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:724 INFO  DesktopPage :47 - Selecting product MacBook
+2023-12-23 10:12:769 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:16 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:132 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:392 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook to your shopping cart!
+×
+2023-12-23 10:12:872 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:893 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:949 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:32 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:68 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (27191ba3351f5fad015df8948dc4012c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:628 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:864 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> link text: Desktops]
+2023-12-23 10:12:474 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:170 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:477 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:510 INFO  DesktopPage :47 - Selecting product MacBook Air
+2023-12-23 10:12:545 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:871 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:56 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:315 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook Air to your shopping cart!
+×
+2023-12-23 10:12:793 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:824 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:858 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:918 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:04 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (484dac0eda8a5ea9883847a1aff61db9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:553 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:761 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> link text: Desktops]
+2023-12-23 10:12:366 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:17 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2023-12-23 10:12:303 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2023-12-23 10:12:319 INFO  DesktopPage :47 - Selecting product Sony VAIO
+2023-12-23 10:12:375 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:629 INFO  ProductPage :95 - Enter the quantity 1 on Product page 
+2023-12-23 10:12:740 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:982 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added Sony VAIO to your shopping cart!
+×
+2023-12-23 10:12:434 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:461 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:505 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:566 INFO  ShoppingCartPage :62 - Getting model: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-12-23 10:12:637 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (91e3ae835e6bcae8b7606abe9c4ad03c)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:442 INFO  HomePage :78 - Selecting currency: £Pound Sterling
+2023-12-23 10:12:645 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> link text: Laptops & Notebooks]
+2023-12-23 10:12:258 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2023-12-23 10:12:826 INFO  DesktopPage :84 - Selecting sort by filter Price (High > Low)
+2023-12-23 10:12:19 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [1225.0, 736.23, 736.23, 368.73, 74.73]
+2023-12-23 10:12:940 INFO  DesktopPage :47 - Selecting product MacBook
+2023-12-23 10:12:972 INFO  ProductPage :52 - Getting Product text: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //div[@id = 'content']//h1]
+2023-12-23 10:12:79 INFO  ProductPage :79 - Clicking on Add to cart Button: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //button[@id='button-cart']]
+2023-12-23 10:12:332 INFO  ProductPage :83 - Getting Product Added Success Message: Success: You have added MacBook to your shopping cart!
+×
+2023-12-23 10:12:752 INFO  ProductPage :89 - Clicking on shopping cart link into success message: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-12-23 10:12:824 INFO  ShoppingCartPage :47 - Getting shopping cart text: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //div[@id='content']//h1]
+2023-12-23 10:12:868 INFO  ShoppingCartPage :52 - Getting product name: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-12-23 10:12:82 INFO  ShoppingCartPage :74 - Enter quantity on shopping cart page: 2
+2023-12-23 10:12:705 INFO  ShoppingCartPage :79 - Clicking on qty update button: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //button[contains(@data-original-title, 'Update')]]
+2023-12-23 10:12:740 INFO  ShoppingCartPage :83 - Getting success modified message: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: (//div[@class='alert alert-success alert-dismissible'])[1]]
+2023-12-23 10:12:784 INFO  ShoppingCartPage :67 - Getting total price: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-12-23 10:12:193 INFO  ShoppingCartPage :89 - Clicking on checkout button: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //a[@class='btn btn-primary']]
+2023-12-23 10:12:273 INFO  CheckOutPage :91 - Getting checkout text: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //h1[normalize-space()='Checkout']]
+2023-12-23 10:12:509 INFO  CheckOutPage :103 - Clicking on guest checkout radio button on checkout page: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //input[@value='guest']]
+2023-12-23 10:12:643 INFO  CheckOutPage :108 - Clicking on continue button on checkout page: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> css selector: #button-account]
+2023-12-23 10:12:237 INFO  CheckOutPage :122 - Filled all personal information on checkout page
+2023-12-23 10:12:343 INFO  CheckOutPage :127 - Clicking on guest continue button on checkout page: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //input[@id='button-guest']]
+2023-12-23 10:12:27 INFO  CheckOutPage :133 - Enter comment : Please send delivery as soon as possible in comment area [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //textarea[@name='comment']]
+2023-12-23 10:12:258 INFO  CheckOutPage :138 - Clicking on terms and condition on checkout page: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> css selector: input[value='1'][name='agree']]
+2023-12-23 10:12:382 INFO  CheckOutPage :143 - Clicking on payment continue button on checkout page: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //input[@id='button-payment-method']]
+2023-12-23 10:12:637 INFO  CheckOutPage :148 - Getting warning message for payment method: [[ChromeDriver: chrome on windows (3c64895b419c93491a6c62b553f723d9)] -> xpath: //div[@class ='alert alert-danger alert-dismissible']]
+2023-12-23 10:12:945 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:510 INFO  HomePage :95 - Selecting my account option: Login
+2023-12-23 10:12:745 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (6f573334b5e643248bb184d6e49c97f7)] -> link text: Desktops]
+2023-12-23 10:12:392 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2023-12-23 10:12:599 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (dde50377d076460c3e8924b2a607da91)] -> link text: Laptops & Notebooks]
+2023-12-23 10:12:238 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2023-12-23 10:12:267 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (dde50377d076460c3e8924b2a607da91)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-23 10:12:325 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (dde50377d076460c3e8924b2a607da91)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-23 10:12:622 INFO  HomePage :70 - Mouse hovering on Components link and click [[ChromeDriver: chrome on windows (c1154b817f9959b5ffcbf0eb5e2ccb5f)] -> link text: Components]
+2023-12-23 10:12:276 INFO  HomePage :49 - Selecting menu Show AllComponents
+2023-12-23 10:12:337 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (c1154b817f9959b5ffcbf0eb5e2ccb5f)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-23 10:12:381 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (c1154b817f9959b5ffcbf0eb5e2ccb5f)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-23 10:12:736 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:434 INFO  HomePage :95 - Selecting my account option: Register
+2023-12-23 10:12:570 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (5243c0e04857a725da5e763a2bf65473)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-12-23 10:12:620 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (5243c0e04857a725da5e763a2bf65473)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-12-23 10:12:833 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:562 INFO  HomePage :95 - Selecting my account option: Login
+2023-12-23 10:12:881 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:633 INFO  HomePage :95 - Selecting my account option: Register
+2023-12-23 10:12:848 INFO  AccountRegisterPage :60 - Enter firstName : Prime to firstName field [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> id: input-firstname]
+2023-12-23 10:12:35 INFO  AccountRegisterPage :65 - Enter lastName : Testing to lastName field [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> id: input-lastname]
+2023-12-23 10:12:263 INFO  AccountRegisterPage :70 - Enter email : 5L5prime123@gmail.com to email field [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> id: input-email]
+2023-12-23 10:12:449 INFO  AccountRegisterPage :75 - Enter telephone : 07878112233 to telephone field 07878112233
+2023-12-23 10:12:609 INFO  AccountRegisterPage :80 - Enter password : Prime123 to password field Prime123
+2023-12-23 10:12:769 INFO  AccountRegisterPage :85 - Enter confirm password : Prime123 to confirm password field Prime123
+2023-12-23 10:12:977 INFO  AccountRegisterPage :100 - Clicking on privacy policy check box
+2023-12-23 10:12:714 INFO  AccountRegisterPage :105 - Clicking on continue button on account register page
+2023-12-23 10:12:795 INFO  MyAccountPage :41 - Getting Your account has been created text: [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]
+2023-12-23 10:12:309 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-23 10:12:436 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:157 INFO  HomePage :95 - Selecting my account option: Logout
+2023-12-23 10:12:275 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-12-23 10:12:96 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (c3493673f04e2e7da9a12323d855af8b)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-23 10:12:109 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:729 INFO  HomePage :95 - Selecting my account option: Login
+2023-12-23 10:12:11 INFO  AccountLoginPage :45 - Entering email 5L5prime123@gmail.com to email field : [[ChromeDriver: chrome on windows (420a9feda5bb305982179985da2ce217)] -> id: input-email]
+2023-12-23 10:12:196 INFO  AccountLoginPage :50 - Entering password Prime123 to email field : [[ChromeDriver: chrome on windows (420a9feda5bb305982179985da2ce217)] -> id: input-password]
+2023-12-23 10:12:902 INFO  AccountLoginPage :55 - Clicking on login button : [[ChromeDriver: chrome on windows (420a9feda5bb305982179985da2ce217)] -> xpath: //form[contains(@action,'login')]//input[@type='submit']]
+2023-12-23 10:12:959 INFO  MyAccountPage :31 - Getting my account text: [[ChromeDriver: chrome on windows (420a9feda5bb305982179985da2ce217)] -> xpath: //h2[normalize-space()='My Account']]
+2023-12-23 10:12:57 INFO  HomePage :86 - Clicking on My account Tab
+2023-12-23 10:12:735 INFO  HomePage :95 - Selecting my account option: Logout
+2023-12-23 10:12:848 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-12-23 10:12:681 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (420a9feda5bb305982179985da2ce217)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-16 16:01:330 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:91 INFO  HomePage :95 - Selecting my account option: Register
+2024-01-16 16:01:174 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (ef922c11ace4979f97f6c7fd24682a4e)] -> xpath: //h1[contains(text(),'Register Account')]]
+2024-01-16 16:01:229 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (ef922c11ace4979f97f6c7fd24682a4e)] -> xpath: //h1[contains(text(),'Register Account')]]
+2024-01-16 16:01:536 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:951 INFO  HomePage :95 - Selecting my account option: Login
+2024-01-16 16:01:984 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:781 INFO  HomePage :95 - Selecting my account option: Register
+2024-01-16 16:01:953 INFO  AccountRegisterPage :60 - Enter firstName : Prime to firstName field [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> id: input-firstname]
+2024-01-16 16:01:50 INFO  AccountRegisterPage :65 - Enter lastName : Testing to lastName field [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> id: input-lastname]
+2024-01-16 16:01:173 INFO  AccountRegisterPage :70 - Enter email : WaNprime123@gmail.com to email field [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> id: input-email]
+2024-01-16 16:01:280 INFO  AccountRegisterPage :75 - Enter telephone : 07878112233 to telephone field 07878112233
+2024-01-16 16:01:422 INFO  AccountRegisterPage :80 - Enter password : Prime123 to password field Prime123
+2024-01-16 16:01:505 INFO  AccountRegisterPage :85 - Enter confirm password : Prime123 to confirm password field Prime123
+2024-01-16 16:01:660 INFO  AccountRegisterPage :100 - Clicking on privacy policy check box
+2024-01-16 16:01:408 INFO  AccountRegisterPage :105 - Clicking on continue button on account register page
+2024-01-16 16:01:434 INFO  MyAccountPage :41 - Getting Your account has been created text: [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]
+2024-01-16 16:01:855 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-16 16:01:948 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:740 INFO  HomePage :95 - Selecting my account option: Logout
+2024-01-16 16:01:791 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2024-01-16 16:01:609 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (f61ab2e64fd579128231d0270b90329e)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-16 16:01:737 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:169 INFO  HomePage :95 - Selecting my account option: Login
+2024-01-16 16:01:346 INFO  AccountLoginPage :45 - Entering email WaNprime123@gmail.com to email field : [[ChromeDriver: chrome on windows (dfe521f47e049f69949fd1bc74413db2)] -> id: input-email]
+2024-01-16 16:01:441 INFO  AccountLoginPage :50 - Entering password Prime123 to email field : [[ChromeDriver: chrome on windows (dfe521f47e049f69949fd1bc74413db2)] -> id: input-password]
+2024-01-16 16:01:148 INFO  AccountLoginPage :55 - Clicking on login button : [[ChromeDriver: chrome on windows (dfe521f47e049f69949fd1bc74413db2)] -> xpath: //form[contains(@action,'login')]//input[@type='submit']]
+2024-01-16 16:01:174 INFO  MyAccountPage :31 - Getting my account text: [[ChromeDriver: chrome on windows (dfe521f47e049f69949fd1bc74413db2)] -> xpath: //h2[normalize-space()='My Account']]
+2024-01-16 16:01:232 INFO  HomePage :86 - Clicking on My account Tab
+2024-01-16 16:01:882 INFO  HomePage :95 - Selecting my account option: Logout
+2024-01-16 16:01:933 INFO  MyAccountPage :36 - Getting Account Logout text: Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2024-01-16 16:01:610 INFO  MyAccountPage :47 - Clicking on continue button on My account page: [[ChromeDriver: chrome on windows (dfe521f47e049f69949fd1bc74413db2)] -> xpath: //a[normalize-space()='Continue']]
+2024-07-05 15:07:937 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (6a68cefd1f6068fee83bf0edfb8ea29a)] -> link text: Desktops]
+2024-07-05 15:07:545 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2024-07-05 15:07:706 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2024-07-05 15:07:143 INFO  DesktopPage :84 - Selecting sort by filter Name (A - Z)
+2024-07-05 15:07:280 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2024-07-05 15:07:284 INFO  DesktopPage :55 - Product arranged in ascending order
+2024-07-05 15:07:538 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (0d1c0c3fcfe1d53bf0b87bff945d91fd)] -> link text: Desktops]
+2024-07-05 15:07:134 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2024-07-05 15:07:288 INFO  DesktopPage :39 - Getting original product name list: [Apple Cinema 30", Canon EOS 5D, HP LP3065, HTC Touch HD, iPhone, iPod Classic, MacBook, MacBook Air, Palm Treo Pro, Product 8, Samsung SyncMaster 941BW, Sony VAIO]
+2024-07-05 15:07:718 INFO  DesktopPage :84 - Selecting sort by filter Name (Z - A)
+2024-07-05 15:07:855 INFO  DesktopPage :39 - Getting original product name list: [Sony VAIO, Samsung SyncMaster 941BW, Product 8, Palm Treo Pro, MacBook Air, MacBook, iPod Classic, iPhone, HTC Touch HD, HP LP3065, Canon EOS 5D, Apple Cinema 30"]
+2024-07-05 15:07:859 INFO  DesktopPage :59 - Product arranged in descending order
+2024-07-05 15:07:736 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (68c0ea52c38d654be6d14338d1504224)] -> link text: Laptops & Notebooks]
+2024-07-05 15:07:339 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2024-07-05 15:07:413 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [122.0, 602.0, 1202.0, 2000.0, 1202.0]
+2024-07-05 15:07:818 INFO  DesktopPage :84 - Selecting sort by filter Price (High > Low)
+2024-07-05 15:07:885 INFO  LaptopsAndNotebooksPage :38 - Getting original price list: [2000.0, 1202.0, 1202.0, 602.0, 122.0]
+2024-07-05 15:07:890 INFO  DesktopPage :70 - Price arranged in High to Low order
+2024-07-05 15:07:431 INFO  HomePage :86 - Clicking on My account Tab
+2024-07-05 15:07:964 INFO  HomePage :95 - Selecting my account option: Register
+2024-07-05 15:07:00 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (7d1f5d174862f04d6b12d47d3ddd5c8b)] -> xpath: //h1[contains(text(),'Register Account')]]
+2024-07-05 15:07:22 INFO  AccountRegisterPage :54 - Getting register account text: [[ChromeDriver: chrome on windows (7d1f5d174862f04d6b12d47d3ddd5c8b)] -> xpath: //h1[contains(text(),'Register Account')]]
+2024-07-05 15:07:120 INFO  HomePage :60 - Mouse hovering on Desktop link and click [[ChromeDriver: chrome on windows (d2bbe54cc3996b46350ee1ef713dd7d1)] -> link text: Desktops]
+2024-07-05 15:07:695 INFO  HomePage :49 - Selecting menu Show AllDesktops
+2024-07-05 15:07:387 INFO  HomePage :65 - Mouse hovering on Laptops And Notebooks link and click [[ChromeDriver: chrome on windows (e18b120c99f5dbf6019f6e934c442928)] -> link text: Laptops & Notebooks]
+2024-07-05 15:07:923 INFO  HomePage :49 - Selecting menu Show AllLaptops & Notebooks
+2024-07-05 15:07:958 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (e18b120c99f5dbf6019f6e934c442928)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2024-07-05 15:07:980 INFO  LaptopsAndNotebooksPage :28 - Getting Laptops and Notebooks text: [[ChromeDriver: chrome on windows (e18b120c99f5dbf6019f6e934c442928)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2024-07-05 15:07:668 INFO  HomePage :70 - Mouse hovering on Components link and click [[ChromeDriver: chrome on windows (e58436df8de912516bb8ef73701932c2)] -> link text: Components]
+2024-07-05 15:07:195 INFO  HomePage :49 - Selecting menu Show AllComponents
+2024-07-05 15:07:229 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (e58436df8de912516bb8ef73701932c2)] -> xpath: //h2[contains(text(),'Components')]]
+2024-07-05 15:07:254 INFO  ComponentsPage :21 - Getting Components text : [[ChromeDriver: chrome on windows (e58436df8de912516bb8ef73701932c2)] -> xpath: //h2[contains(text(),'Components')]]
